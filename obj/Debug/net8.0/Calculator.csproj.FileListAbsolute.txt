@@ -1,0 +1,14 @@
+C:\Users\ZEROTWO\OneDrive\Documentos\C#\Calculator\Calculator\bin\Debug\net8.0\Calculator.exe
+C:\Users\ZEROTWO\OneDrive\Documentos\C#\Calculator\Calculator\bin\Debug\net8.0\Calculator.deps.json
+C:\Users\ZEROTWO\OneDrive\Documentos\C#\Calculator\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+C:\Users\ZEROTWO\OneDrive\Documentos\C#\Calculator\Calculator\bin\Debug\net8.0\Calculator.dll
+C:\Users\ZEROTWO\OneDrive\Documentos\C#\Calculator\Calculator\bin\Debug\net8.0\Calculator.pdb
+C:\Users\ZEROTWO\OneDrive\Documentos\C#\Calculator\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZEROTWO\OneDrive\Documentos\C#\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\ZEROTWO\OneDrive\Documentos\C#\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\Users\ZEROTWO\OneDrive\Documentos\C#\Calculator\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ZEROTWO\OneDrive\Documentos\C#\Calculator\Calculator\obj\Debug\net8.0\Calculator.dll
+C:\Users\ZEROTWO\OneDrive\Documentos\C#\Calculator\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+C:\Users\ZEROTWO\OneDrive\Documentos\C#\Calculator\Calculator\obj\Debug\net8.0\Calculator.pdb
+C:\Users\ZEROTWO\OneDrive\Documentos\C#\Calculator\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+C:\Users\ZEROTWO\OneDrive\Documentos\C#\Calculator\Calculator\obj\Debug\net8.0\ref\Calculator.dll
